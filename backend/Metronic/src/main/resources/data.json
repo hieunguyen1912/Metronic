@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "First Post",
+    "content": "This is the first demo post",
+    "status": "PUBLISHED",
+    "createdAt": "2025-01-01"
+  },
+  {
+    "id": 2,
+    "title": "Draft Post",
+    "content": "This is a draft post content",
+    "status": "DRAFT",
+    "createdAt": "2025-01-02"
+  },
+  {
+    "id": 3,
+    "title": "Metronic Layout Customization",
+    "content": "Guide on how to customize layouts in Metronic theme",
+    "status": "PUBLISHED",
+    "createdAt": "2025-01-03"
+  },
+  {
+    "id": 4,
+    "title": "Create Post Feature",
+    "content": "Implementing create post feature using HTML and JavaScript",
+    "status": "PUBLISHED",
+    "createdAt": "2025-01-04"
+  },
+  {
+    "id": 5,
+    "title": "Form Validation Tips",
+    "content": "Client-side form validation best practices",
+    "status": "DRAFT",
+    "createdAt": "2025-01-05"
+  },
+  {
+    "id": 6,
+    "title": "Using Swal in Metronic",
+    "content": "How to replace alert with SweetAlert in Metronic",
+    "status": "PUBLISHED",
+    "createdAt": "2025-01-06"
+  },
+  {
+    "id": 7,
+    "title": "Mock Data for Frontend",
+    "content": "Why and how to use mock data when backend is not ready",
+    "status": "DRAFT",
+    "createdAt": "2025-01-07"
+  },
+  {
+    "id": 8,
+    "title": "Submit Form Without Reload",
+    "content": "Handling form submission using JavaScript without page reload",
+    "status": "PUBLISHED",
+    "createdAt": "2025-01-08"
+  },
+  {
+    "id": 9,
+    "title": "Bootstrap Utilities",
+    "content": "Useful Bootstrap utility classes for faster UI development",
+    "status": "PUBLISHED",
+    "createdAt": "2025-01-09"
+  },
+  {
+    "id": 10,
+    "title": "Preparing for Backend Integration",
+    "content": "Steps to connect frontend mock data with real backend API",
+    "status": "DRAFT",
+    "createdAt": "2025-01-10"
+  }
+]
