@@ -56,7 +56,7 @@ public class PostController {
         model.addAttribute("posts", data);
         model.addAttribute("currentPage", page);
         model.addAttribute("totalPages", totalPages);
-        model.addAttribute("search", search);      // ✅ LƯU SEARCH
+        model.addAttribute("search", search);
         model.addAttribute("status", status);
 
         return "all_post";
